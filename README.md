@@ -7,15 +7,17 @@ A very passionate, proactive and versatile developer with good experience throug
 
 ###Skills
 
-|Languages:|:Ruby, Javascript, Python, Objective-C, Swift, Go, C#, C++, C|
-|Frontend:|:HTML5, CSS3, Angular, React|
+|Type|Skill|
+|-:|:-|
+|Languages|Ruby, Javascript, Python, Objective-C, Swift, Go, C#, C++, C|
+|Frontend|HTML5, CSS3, Angular, React|
+|Server|Rails, Express, DJango, Middleman, Sinatra|
+|Cloud|EC2, Heroku, Redshift, S3|
+|DevOps|Vagrant, Docker, CoreOS, Chef|
+|Databases|Postgres, MYSQL, MSSQL, Mongo, Couchbase|
+|VCS|GIT, SVN, Perforce|
+|Methodology|Lean, Agile, SCRUM, KanBan, XP, TDD|
 
-     Server: Rails, Express, DJango, Middleman, Sinatra
-      Cloud: EC2, Heroku, Redshift, S3
-     DevOps: Vagrant, Docker, CoreOS, Chef
-  Databases: Postgres, MYSQL, MSSQL, Mongo, Couchbase
-        VCS: GIT, SVN, Perforce
-Methodology: Lean, Agile, SCRUM, KanBan, XP, TDD
 
 
 ###Experience
@@ -132,9 +134,9 @@ lifecycle of the FriendsAbroad product.
 
 ####Early Career
 
-All Types of Mortgages  - DeveloperSept  (2002 – 2005)
-Jubilan Learning Junior - Programmer     (2001 - 2002)
-News International      - Systems Admin  (2000 - 2001)
+All Types of Mortgages  - DeveloperSept     (2002 – 2005)
+Jubilan Learning        - Junior Developer  (2001 - 2002)
+News International      - Systems Admin     (2000 - 2001)
 
 ####Hobbies
 Always Learning, Robotics, Electronics and Skiing
