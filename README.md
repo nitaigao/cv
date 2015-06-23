@@ -7,8 +7,8 @@ A very passionate, proactive and versatile developer with good experience throug
 
 ###Skills
 
-|Type     |Skill                                                         |
-|---------|--------------------------------------------------------------|
+|Type       |Skill                                                       |
+|-----------|------------------------------------------------------------|
 |Languages  |Ruby, Javascript, Python, Objective-C, Swift, Go, C#, C++, C|
 |Frontend   |HTML5, CSS3, Angular, React                                 |
 |Server     |Rails, Express, DJango, Middleman, Sinatra                  |
@@ -128,9 +128,11 @@ lifecycle of the FriendsAbroad product.
 
 ####Early Career
 
-All Types of Mortgages  - DeveloperSept     (2002 – 2005)
-Jubilan Learning        - Junior Developer  (2001 - 2002)
-News International      - Systems Admin     (2000 - 2001)
+|Name                  |Role            |Year        |
+|----------------------|----------------|------------|
+|All Types of Mortgages|Developer       |2002 – 2005 |
+|Jubilan Learning      |Junior Developer|2001 - 2002 |
+|News International    |Systems Admin   |2000 - 2001 |
 
 ####Hobbies
 Always Learning, Robotics, Electronics and Skiing
