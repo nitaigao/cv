@@ -7,16 +7,16 @@ A very passionate, proactive and versatile developer with good experience throug
 
 ###Skills
 
-|Type|Skill|
-|-:|:-|
-|Languages|Ruby, Javascript, Python, Objective-C, Swift, Go, C#, C++, C|
-|Frontend|HTML5, CSS3, Angular, React|
-|Server|Rails, Express, DJango, Middleman, Sinatra|
-|Cloud|EC2, Heroku, Redshift, S3|
-|DevOps|Vagrant, Docker, CoreOS, Chef|
-|Databases|Postgres, MYSQL, MSSQL, Mongo, Couchbase|
-|VCS|GIT, SVN, Perforce|
-|Methodology|Lean, Agile, SCRUM, KanBan, XP, TDD|
+|Type     |Skill                                                         |
+|---------|--------------------------------------------------------------|
+|Languages  |Ruby, Javascript, Python, Objective-C, Swift, Go, C#, C++, C|
+|Frontend   |HTML5, CSS3, Angular, React                                 |
+|Server     |Rails, Express, DJango, Middleman, Sinatra                  |
+|Cloud      |EC2, Heroku, Redshift, S3                                   |
+|DevOps     |Vagrant, Docker, CoreOS, Chef                               |
+|Databases  |Postgres, MYSQL, MSSQL, Mongo, Couchbase                    |
+|VCS        |GIT, SVN, Perforce                                          |
+|Methodology|Lean, Agile, SCRUM, KanBan, XP, TDD                         |
 
 
 ###Experience
