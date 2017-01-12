@@ -24,9 +24,9 @@ A very passionate, proactive and versatile developer with good experience throug
 ####NEON Adventures
 ######Dec 2013 - Present
 
-At Sony I worked to deliver content for mobile & console devices whilst keeping high performance a priority. I often branch out over various aspects of the production lifecycle as required.
+At NEON I have been fortunate to work across a variety of projects and startups. Ranging from edTech, cycling teams, hotel management and charities.
 
-* Assembly Education
+* assembly.education
 * neonadventures.com
 * founders pledge.com
 * raceworks.io
@@ -104,10 +104,10 @@ agency.
 Employed as a Developer at this Agency, my primary role was to design and develop software with an additional
 focus on standards implementation for the business.
 
-* Design and Development of scalable C# applications for Mobile Networking, E-Commerce and Windows Services;
+* Design and Development of scalable C# applications for Mobile Networking, E-Commerce and Windows Services;
 * Implementation & administration of Subversion version control and Cruise Control for automated testing;
 * Implementation of centralised bug tracking using Trac;
-* Planning and configuration of public facing server infrastructure environments;
+* Planning and configuration of public facing server infrastructure environments;
 * Standardisation & Development of re-usable C# business libraries.
 * Definition of coding standards, including: Naming Conventions, Class layout and Testing Strategies;
 * Planning maintenance & upgrade schemes for legacy client systems.
